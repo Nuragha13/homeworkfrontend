@@ -1,0 +1,41 @@
+body {
+    text-align: center;
+    font-family: sans-serif;
+}
+
+main {
+    margin: 20%;
+    margin-top: 0%;
+    margin-bottom: 2%;
+    text-align: left;
+}
+
+h1 {
+    font-size: 38px;
+}
+
+.sty {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: #2554ec;
+}
+
+p {
+    color: #727a82;
+}
+
+::-webkit-scrollbar {
+    width: 8px;
+}
+
+::-webkit-scrollbar-track {
+    background-color: #bec6db;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #454644;
+    border-radius: 10px;
+}

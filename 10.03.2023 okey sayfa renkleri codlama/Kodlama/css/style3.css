@@ -1,0 +1,62 @@
+body {
+    font-family: sans-serif;
+    background: url(fon/99.png) 50%;
+    font-size: x-large;
+}
+
+h1, p, input {
+    text-align: left;
+}
+
+p {
+    color: #727a82;
+}
+
+a {
+    text-decoration: none;
+    color: #2051ec;
+}
+
+footer {
+    text-align: right;
+    margin-left: 300px;
+    margin-right: 5px;
+}
+
+input {
+    background-color: #2051ec;
+    border: 0px;
+    border-radius: 5px;
+    color: white;
+    padding: 10px 15px;
+    font-size: large;
+}
+
+.beyaz {
+    background-color: white;
+    color: #727a82;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+header {
+    margin-left: 550px;
+    margin-top: 220px;
+}
+
+main {
+    margin-left: 550px;
+}
+
+::-webkit-scrollbar {
+    width: 8px;
+}
+
+::-webkit-scrollbar-track {
+    background-color: #bec6db;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #454644;
+    border-radius: 10px;
+}

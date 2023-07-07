@@ -1,0 +1,29 @@
+body {
+    text-align: center;
+    font-family: sans-serif;
+}
+
+main {
+    background: #e2e7f0;
+    border-radius: 15px;
+    text-align: left;
+    padding: 20px 20px 30px 40px;
+    margin: 19%;
+}
+
+footer {
+    margin-top: 0px;
+}
+
+::-webkit-scrollbar {
+    width: 8px;
+}
+
+::-webkit-scrollbar-track {
+    background-color: #bec6db;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #454644;
+    border-radius: 10px;
+}
